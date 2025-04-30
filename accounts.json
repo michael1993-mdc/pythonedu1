@@ -1,0 +1,22 @@
+{
+    "C001": {
+        "holder": "michael1",
+        "balance": 1100.0,
+        "account_type": "checkings"
+    },
+    "C002": {
+        "holder": "sinbad1",
+        "balance": 1000.0,
+        "account_type": "checkings"
+    },
+    "S001": {
+        "holder": "sinbad1",
+        "balance": 1100.0,
+        "account_type": "savings"
+    },
+    "S012": {
+        "holder": "hector1",
+        "balance": 1100.0,
+        "account_type": "savings"
+    }
+}

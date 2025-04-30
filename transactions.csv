@@ -1,0 +1,5 @@
+Account ID,Transaction Type,Amount,Date
+A001,Deposit,200,2025-04-30 13:47:15
+A001,Withdraw,150,2025-04-30 13:47:15
+A001,Transfer Out,300,2025-04-30 13:47:15
+B001,Transfer In,300,2025-04-30 13:47:15
