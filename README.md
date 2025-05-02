@@ -1,6 +1,32 @@
-# pythonedu1
-#The main.py needs auth.py, accounts.py, transactions.py, storage.py, reports, and plotting files to function.
-#This was my first attempt at doing anything like this and it was difficult and after seeing others work I am not to confident.
-#There is an error in main.py in the view section of accounts, I can't view accounts.
-#Plotting also has a problem because there is something wrong in transactions.
-#The transactions works fine but does not work while with plotting.
+# CLI Banking project
+
+## Description
+This Code is suppose to function like a banking app.
+
+## Installation
+https://github.com/michael1993-mdc/pythonedu1
+
+## Usage 
+1. Clone respository
+2. Use branches in main.py to access the other files.
+3. Begin with creating a user account.
+4. Create a few account and add some money to them.
+5. Perform some transactions.
+6. Explore other options.
+7. Exit
+
+## Features
+- Create account on the app
+- Login
+- Create savings and checkings account
+- Transfer, withdraw, Deposit
+- Look at reports and plot data
+
+
+
+
+
+
+
+
+
